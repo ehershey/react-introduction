@@ -11,4 +11,4 @@ function Section({ title, children }: React.PropsWithChildren<SectionProps>) {
   );
 }
 
-export { Section };
+export default Section;
